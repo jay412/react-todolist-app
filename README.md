@@ -1,4 +1,4 @@
-#react-todolist-app
+# react-todolist-app
 
 A CRUD react application that creates and removes to-do items and saves it in a Firebase database. 
 
