@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+body {
+  padding: 50px;
+  background-color: #18BC9C;
+  font-family: 'Gugi', cursive;
+}
+
+#container {
+  display: flex;
+  justify-content: flex;
+  text-align: center;
+}
